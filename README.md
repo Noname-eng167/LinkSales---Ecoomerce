@@ -84,4 +84,5 @@ O projeto utiliza GitHub Actions para integração contínua e testes automátic
 💻 GitHub: https://github.com/Noname-eng167/LinkSales-Ecoomerce
 
 *“Comunicação é o elo que transforma uma venda em confiança.”*
+---
 **— Equipe LinkSales**
